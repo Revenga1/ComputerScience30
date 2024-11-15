@@ -1,0 +1,45 @@
+Object-Oriented Systems
+		-Abstraction
+		-Encapsulation
+			-To hide changeable Information
+			-Can you make variables private?
+			-Private to protect data
+		-Messages
+		-Object lifetime
+		-Decomposition
+		-Generalization
+		
+		
+		//    switch (answer.toLowerCase()) {
+//    case "g":
+//    	questIndex = 0 + user.getQAnswered();
+//    	break;
+//    case "h":
+//    	questIndex = 10 + user.getQAnswered();
+//    	break;
+//    case "p":
+//    	questIndex = 20 + user.getQAnswered();
+//    	break;
+//    case "s":
+//    	questIndex = 30 + user.getQAnswered();
+//    	break;
+//    case "sp":
+//    	questIndex = 40 + user.getQAnswered();
+//    	break;
+//    case "l":
+//    	questIndex = 50 + user.getQAnswered();
+//    	break;
+//    case "ae":
+//    	questIndex = 60 + user.getQAnswered();
+//    	break;
+//    case "t":
+//    	questIndex = 70 + user.getQAnswered();
+//    	break;
+//    case "gk":
+//    	questIndex = 80 + user.getQAnswered();
+//    	break;
+//    case "fd":
+//    	questIndex = 90 + user.getQAnswered();
+//    	break;
+//    case default:
+//    }
